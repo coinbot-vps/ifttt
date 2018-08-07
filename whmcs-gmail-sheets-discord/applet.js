@@ -4,6 +4,7 @@
 IFTTT Applet:     https://platform.ifttt.com/p/coinbotvps/applets/nsqUGXwi
 Google Sheet:     https://drive.google.com/drive/u/1/folders/1CHzKF34mbZsNLc4QQBmyYk8WEXn30zC1
 Discord Channel:  https://discordapp.com/channels/441447726446542871/476130020113514508
+Version:          1.0.0
 
 *************************************************************************************/
 
